@@ -1,3 +1,10 @@
+/*
+*  C Program for Socket SERVER
+*  Multiple Client Support
+*  Usage
+*  gcc -o server server.c 
+*  For eg: ./server
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
